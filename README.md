@@ -9,7 +9,7 @@ I'm a UI Software Engineer at [Rally Health](https://rallyhealth.com) coding dur
 
 #### Additional Tidbits
 - 😄 Pronouns: he/him
-- 💻 Tech: [![TypeScript](https://img.shields.io/badge/-TypeScript-313131?style=flat-square&logo=typescript)](#)
+- 💻 Tech: ![TypeScript](https://img.shields.io/badge/-TypeScript-313131?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
