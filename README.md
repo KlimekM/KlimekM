@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-mklimek15@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mklimek15@gmail.com)](mailto:mklimek15@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-@KlimekM__-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/KlimekM_)](https://twitter.com/KlimekM_)
 
-**Thanks for visiting!** :metal::sunglasses::call_me_hand:
+![Visitors](https://komarev.com/ghpvc/?username=KlimekM&style=flat-square&color=blue&label=Visitors) **Thanks for visiting!** :metal::sunglasses::call_me_hand:
 
 I'm a UI Software Engineer at [Rally Health](https://rallyhealth.com) coding during the day as [@Rally-KlimekM](https://github.com/Rally-KlimekM). I'm a lifelong learner who is passionate about front-end tech and enjoy working in collaborative environments. Feel free to reach out via the links above.
 
