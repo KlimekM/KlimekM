@@ -6,7 +6,7 @@
 
 **Thanks for visiting!** :metal::sunglasses::call_me_hand:
 
-I'm a UI Software Engineer at [Rally Health](https://rallyhealth.com) coding during the day as [@Rally-KlimekM](https://github.com/Rally-KlimekM). I'm a lifelong learner who is passionate about front-end tech and enjoy working in collaborative environments. Feel free to reach out via the links above.
+I'm a Senior Software Engineer at [Zendesk](https://www.zendesk.com/). Previously coded as [@Rally-KlimekM](https://github.com/Rally-KlimekM) at [Rally Health](https://www.rallyhealth.com/). I'm a lifelong learner who is passionate about front-end tech and enjoy working in collaborative environments. Feel free to reach out via the links above.
 
 #### Additional Tidbits
 - 😄 Pronouns: he/him
